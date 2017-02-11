@@ -23,7 +23,7 @@ tausend,thousand,хиляда,hiljada,tisuću
 ,,,,
 weiß,white,бял,bjal,bijela
 grau,gray,сив,siv,siva
-gelb,yellow,жълт,zhult,žuta
+gelb,yellow,жълт,zhylt,žuta
 orange,orange,оранжев,oranzhev,narančasta
 rot,red,червен,cherven,crvena
 lila,purple,лилав,lilav,purpurna
@@ -61,7 +61,7 @@ dezember,december,декември,dekemvri,prosinac
 ,,,,
 ich,i,аз,az,ja
 du,you,ти,ti,ti
-er,he,той,toi,on
+er,he,той,toj,on
 sie,she,тя,tja,ona
 es,it,то,to,ono
 wir,we,ние,nie,mi
@@ -69,5 +69,26 @@ ihr,you,вие,vie,vi
 sie,they,те,te,oni/one/ona
 ,,,,
 bitte,please,моля,molja,molim
-danke,thanks,мерси,merci,hvala
+danke,thanks,мерси,mersi,hvala
 dankeschön,thank you,благодаря,blagodarja,hvala
+,,,,
+ja,yes,да,da,da
+nein,no,не,ne,ne
+,,,,
+und,and,и,i,i
+oder,or,или,ili,ili
+,,,,
+giraffe,giraffe,жираф,zhiraf,
+hai,shark,акула,akula,
+elefant,elephant,слон,slon,
+tiger,tiger,тигьр,tigyr,
+löwe,lion,лъв,lyv,
+hase,rabbit,заек,zaek,
+affe,monkey,маймуна,majmuna,
+hund,dog,куче,kuche,
+katze,cat,котка,kotka,
+vogel,bird,птица,ptitsa,
+schlange,snake,змия,zmija,
+bär,bear,мечка,mechka,
+,,,,
+olive,olive,маслина,maslina,maslina
